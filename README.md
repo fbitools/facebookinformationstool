@@ -20,7 +20,7 @@ FBI is an accurate facebook account information gathering, all sensitive informa
 $ apt update && apt upgrade
 $ apt install git python2
 $ git clone https://github.com/fbitools/facebookinformationstool.git
-$ cd fbi
+$ cd facebookinformationstool
 ```
 
 # [ Setup ]
